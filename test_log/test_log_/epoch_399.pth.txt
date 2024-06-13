@@ -1,0 +1,24 @@
+[21:33:38.607] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=400, max_iterations=30000, num_classes=9, opts=None, output_dir='./model_out', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='./data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[21:33:38.607] epoch_399.pth
+[21:33:38.608] 12 test iterations per epoch
+[21:34:44.487] idx 0 case case0008 mean_dice 0.653447 mean_hd95 20.410332
+[21:35:22.368] idx 1 case case0022 mean_dice 0.892388 mean_hd95 2.383241
+[21:36:04.742] idx 2 case case0038 mean_dice 0.763165 mean_hd95 14.808395
+[21:37:26.969] idx 3 case case0036 mean_dice 0.819783 mean_hd95 13.998849
+[21:38:30.420] idx 4 case case0032 mean_dice 0.859216 mean_hd95 8.393711
+[21:39:29.107] idx 5 case case0002 mean_dice 0.809825 mean_hd95 40.801900
+[21:40:09.778] idx 6 case case0029 mean_dice 0.786619 mean_hd95 6.797230
+[21:41:35.287] idx 7 case case0003 mean_dice 0.734088 mean_hd95 69.944270
+[21:42:39.657] idx 8 case case0001 mean_dice 0.729175 mean_hd95 32.268847
+[21:43:38.557] idx 9 case case0004 mean_dice 0.714718 mean_hd95 20.007362
+[21:44:14.208] idx 10 case case0025 mean_dice 0.786934 mean_hd95 11.603114
+[21:44:47.953] idx 11 case case0035 mean_dice 0.875891 mean_hd95 3.680793
+[21:44:47.979] Mean class 1 mean_dice 0.841686 mean_hd95 16.158560
+[21:44:47.979] Mean class 2 mean_dice 0.684436 mean_hd95 17.025220
+[21:44:47.979] Mean class 3 mean_dice 0.835050 mean_hd95 35.708002
+[21:44:47.979] Mean class 4 mean_dice 0.765709 mean_hd95 28.087080
+[21:44:47.979] Mean class 5 mean_dice 0.941153 mean_hd95 20.159943
+[21:44:47.979] Mean class 6 mean_dice 0.512878 mean_hd95 13.867886
+[21:44:47.979] Mean class 7 mean_dice 0.906758 mean_hd95 12.462280
+[21:44:47.979] Mean class 8 mean_dice 0.769164 mean_hd95 19.929727
+[21:44:47.979] Testing performance in best val model: mean_dice : 0.796304 mean_hd95 : 16.214837
