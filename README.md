@@ -31,5 +31,5 @@ python test.py --dataset Synapse --is_savenii --volume_path your DATA_DIR --outp
 
 If can not run, please try make a new folder under model_out, and named as predictions.
 or download the model from [baidu disk](https://pan.baidu.com/s/1aiibREu0DtNr97a66eIJdQ),
-CODE: MSRU
+PIN: MSRU
 
