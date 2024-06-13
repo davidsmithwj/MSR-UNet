@@ -27,5 +27,7 @@ python test.py --dataset Synapse --is_savenii --volume_path your DATA_DIR --outp
 * [MISSFormer](https://github.com/ZhifangDeng/MISSFormer)
 
 ---
+## Possible errors and solutions
+
 
 
