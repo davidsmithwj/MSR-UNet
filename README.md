@@ -19,3 +19,7 @@ python train.py --dataset Synapse --root_path your DATA_DIR --max_epochs 400 --o
 
 ```bash
 python test.py --dataset Synapse --is_savenii --volume_path your DATA_DIR --output_dir your OUT_DIR --max_epoch 400 --base_lr 0.05 --img_size 224 --batch_size 24
+
+## References
+* [TransUnet](https://github.com/Beckschen/TransUNet)
+* [Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet)
