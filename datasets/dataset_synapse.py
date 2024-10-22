@@ -7,7 +7,7 @@ from scipy import ndimage
 from scipy.ndimage.interpolation import zoom
 from torch.utils.data import Dataset
 import imgaug as ia
-import imgaug.augmenters as iaa  # 导入iaa
+import imgaug.augmenters as iaa  #  import iaa
 
 
 def mask_to_onehot(mask, ):
